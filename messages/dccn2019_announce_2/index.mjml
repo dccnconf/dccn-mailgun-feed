@@ -1,0 +1,178 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" />			
+      <mj-text font-family="Arial" />
+    </mj-attributes>
+    
+    <mj-title>
+      DCCN'2019 Call for Papers
+    </mj-title>
+  </mj-head>
+  
+  <mj-body background-color="#eee">
+
+    <mj-include path="./header.mjml" />
+	
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text color="#008080">
+          <h1>DCCN'2019 Call for Papers</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#fff">
+      <mj-column width="410px">
+        <mj-text font-size="15px" align="justify" font-family="Arial">
+          <p>The Russian Academy of Sciences (RAS), the V.A. Trapeznikov Institute of Control
+Sciences of RAS (ICS RAS, Russia, Moscow), the Peoples’ Friendship University of
+Russia (RUDN, Russia, Moscow), the National Research Tomsk State University (NR
+TSU, Russia, Tomsk), and the Institute of Information and Communication
+Technologies of Bulgarian Academy of Sciences (Bulgaria, Sofia) jointly organize the
+            22-nd International Conference on</p>
+          <p style="text-align: center;">
+            <strong style="color: #008080;">
+              DISTRIBUTED COMPUTER AND COMMUNICATION NETWORKS: 
+              CONTROL, COMPUTATION, COMMUNICATIONS (DCCN-2019)
+            </strong>
+          </p>
+          <p>
+            The DCCN-2019 conference is supported by the Moscow department of the 
+            IEEE Region 8 Russia section and will take place in Moscow, Russia, 
+            on <strong style="color: #008080;">23-27 September, 2019</strong>.
+          </p>
+        </mj-text>
+      </mj-column>
+      
+      <mj-column width="190px" padding-top="10px">
+        <mj-text>
+          <a href="http://www.ipu.ru/en/" target="_blank">
+            <img src="http://2019.dccn.ru/images/ipu-ras-logo.jpg" alt="IPU RAS Logo" style="width: 56px; padding: 5px;">
+          </a>
+          <a href="http://en.tsu.ru/" target="_blank">
+            <img src="http://2019.dccn.ru/images/tomsk.jpg" alt="Tomsk Logo" class="img-fluid dccn-img"  style="width: 56px; padding: 5px;">
+          </a>
+          <a href="http://eng.rudn.ru/" target="_blank">
+            <img src="http://2019.dccn.ru/images/rudn-logo.jpg" alt="RUDN Logo" class="img-fluid dccn-img"  style="width: 56px; padding: 5px;">
+          </a>
+          <a href="https://5top100.ru/en/" target="_blank">
+            <img src="http://2019.dccn.ru/images/5-100_square.jpg" alt="5-100 Program Logo" class="img-fluid dccn-img" style="width: 56px; padding: 5px;">
+          </a>
+          <a href="http://www.iict.bas.bg/EN/" target="_blank">
+            <img src="http://2019.dccn.ru/images/iict-logo.jpg" alt="IICT Logo" class="img-fluid dccn-img"  style="width: 56px; padding: 5px;">
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+            
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-button href="http://2019.dccn.ru/data/DCCN2019_CFP.pdf" font-size="16px" border="3px solid #008080" background-color="#fff" color="#000">
+          Download CFP (English)
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button href="http://2019.dccn.ru/data/DCCN2019_CFP_RUS.pdf" font-size="16px" border="3px solid #008080" background-color="#fff" color="#000">
+          Download CFP (Русский)
+        </mj-button>
+      </mj-column>
+    </mj-section>
+            
+    <mj-section background-color="#609090">
+      <mj-column>
+      	<mj-text color="#fff" font-size="18px">
+        	<h2>Important Dates</h2>        
+      	</mj-text>
+        <mj-table color="#fff" font-size="15px" font-family="Arial">
+          <tr>
+            <td style="min-width:120px; padding-top: 10px;"><strong>2 April 2019</strong></td>
+            <td style="padding-top: 10px;">Registration and paper submission opens</td>
+          </tr>
+          <tr>
+            <td style="min-width:120px; padding-top: 10px;"><strong>15 May 2019</strong></td>
+            <td style="padding-top: 10px;">Deadline for paper submissions (6-8 pages)</td>
+          </tr>
+          <tr>
+            <td style="min-width:120px; padding-top: 10px;"><strong>3 June 2019</strong></td>
+            <td style="padding-top: 10px;">End of reviewing process</td>
+          </tr>
+          <tr>
+            <td style="min-width:120px; padding-top: 10px;"><strong>1 July 2019</strong></td>
+            <td style="padding-top: 10px;">Deadline for camera-ready submissions (regular proceedings)</td>
+          </tr>
+          <tr>
+            <td style="min-width:120px; padding-top: 10px;"><strong>1 Aug 2019</strong></td>
+            <td style="padding-top: 10px;">Deadline for camera-ready submissions (Springer volume of extended papers)</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+		<mj-section background-color="#fff">
+      <mj-column>
+        <mj-text color="#008080" font-size="18px">
+          <h2>Proceedings</h2>
+        </mj-text>
+        <mj-text font-size="15px" align="justify">
+        	<p>
+            Prospective authors are encouraged to submit their papers (6-8 pages) 
+            in Russian or English via the on-line registration system at the <a href="https://dccn.ru" style="color: #008080;">Conference website</a>. 
+            The accepted papers will be published in the Conference Proceedings volume (included into the Russian Science Citation Index) prior to the beginning of the Conference. After a peer review and plagiarism check using IEEE CrossCheck, selected submissions in English, recommended by the Program Committee, will also appear as a stand-alone volume of selected extended papers published by <strong style="color: #008080;">Springer</strong> (indexed in Scopus and Web of Science).
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-button href="http://2019.dccn.ru" font-size="16px" border="3px solid #008080" background-color="#fff" color="#000">
+          Read More at 2019.dccn.ru
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+ 		<mj-section background-color="#609090">
+      <mj-column>
+        <mj-text color="#fff" font-size="18px">
+          <h2>Topics</h2>
+        </mj-text>
+        <mj-text color="#fff" align="left" font-size="15px" font-family="Arial">
+          <ul>
+         		<li style="padding-bottom: 6px;">Communication networks algorithms and protocols</li>
+          	<li style="padding-bottom: 6px;">Wireless and mobile networks</li>
+          	<li style="padding-bottom: 6px;">Computer and telecommunication networks control and management</li>
+          	<li style="padding-bottom: 6px;">Performance analysis, QoS/QoE evaluation and network efficiency</li>
+          	<li style="padding-bottom: 6px;">Analytical modeling and simulation of communication systems</li>
+          	<li style="padding-bottom: 6px;">Evolution of wireless networks toward 5G</li>
+          	<li style="padding-bottom: 6px;">Centimeter- and millimeter-wave radio technologies</li>
+          	<li style="padding-bottom: 6px;">RFID-technologies and their applications</li>
+          	<li style="padding-bottom: 6px;">Internet of Things and Fog Computing</li>
+          	<li style="padding-bottom: 6px;">Cloud computing, distributed and parallel systems</li>
+          	<li style="padding-bottom: 6px;">Big data</li>
+          	<li style="padding-bottom: 6px;">Probabilistic and statistical models in information systems</li>
+          	<li style="padding-bottom: 6px;">Queuing theory and reliability theory applications</li>
+          	<li style="padding-bottom: 6px;">High-altitude telecommunications platforms</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+            
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-divider></mj-divider>
+        <mj-text align="left" font-size="13px" font-family="Arial">
+          <p>DCCN'2019 Organizing Committee</p>
+          <p>Contact us: <a href="mailto:org@dccn.ru" style="color: #008080;">org@dccn.ru</a></p>
+          <p>Read more about DCCN'2019 at <a href="http://2019.dccn.ru" style="color: #008080;">2019.dccn.ru</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+
+</mjml>

@@ -1,0 +1,11 @@
+<mj-section background-color="#e8e8e8">
+  <mj-column width="130px">
+    <mj-image width="128px" src="http://2019.dccn.ru/images/dccn-logo.png"></mj-image>
+  </mj-column>
+  <mj-column width="470px">
+    <mj-text font-size="16px" padding="0" padding-bottom="4px" padding-right="10px" color="#535353" font-family="Arial">XXII International Conference on</mj-text>
+    <mj-text font-size="19px" padding="0" padding-bottom="4px" padding-right="10px" font-family="Arial">Distributed Computer and Communication Networks</mj-text>
+    <mj-text font-size="16px" padding="0" padding-bottom="8px" padding-right="10px" color="#535353" font-family="Arial">Control, Computation, Communications</mj-text>
+    <mj-text font-size="16px" padding="0" padding-top="4px" padding-right="10px" color="#535353" font-family="Arial">23-27 September 2019, Moscow, Russia</mj-text>
+  </mj-column>
+</mj-section>

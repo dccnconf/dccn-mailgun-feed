@@ -1,0 +1,12 @@
+<mj-section>
+
+  <mj-column>
+    <mj-text>
+      Conference Site: <a href="http://2019.dccn.ru" style="color: #008080">2019.dccn.ru</a> | Paper Submission: <a href="https://dccn.ru" style="color: #008080">dccn.ru</a>
+    </mj-text>
+    <mj-text>
+    	<a href="%mailing_list_unsubscribe_url%" style="color: #008080;">Unsubscribe</a>
+    </mj-text>
+  </mj-column>
+
+</mj-section>

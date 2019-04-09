@@ -1,0 +1,54 @@
+DCCN-2019 Call for Papers
+========================
+
+The Russian Academy of Sciences (RAS), the V.A. Trapeznikov Institute of Control Sciences of RAS (ICS RAS, Russia, Moscow), the Peoples’ Friendship University of Russia (RUDN, Russia, Moscow), the National Research Tomsk State University (NR TSU, Russia, Tomsk), and the Institute of Information and Communication Technologies of Bulgarian Academy of Sciences (Bulgaria, Sofia) jointly organize the
+22-nd International Conference on
+
+DISTRIBUTED COMPUTER AND COMMUNICATION NETWORKS: CONTROL, COMPUTATION, COMMUNICATIONS (DCCN-2019)
+
+The DCCN-2019 conference is supported by the Moscow department of the IEEE Region 8 Russia section and will take place in Moscow, Russia, on 23-27 September, 2019.
+
+- Download CFP PDF (in English): http://2019.dccn.ru/data/DCCN2019_CFP.pdf 
+- Download CFP PDF (in Russian): http://2019.dccn.ru/data/DCCN2019_CFP_RUS.pdf
+- Read more about the conference: http://2019.dccn.ru
+- Submit paper: https://dccn.ru
+
+
+## Important dates
+
+- 2 April 2019 - Registration and paper submission opens
+- 15 May 2019 - Deadline for paper submissions (6-8 pages)
+- 3 June 2019 - End of reviewing process
+- 1 July 2019 - Deadline for camera-ready submissions (regular proceedings)
+- 1 August 2019 - Deadline for camera-ready submissions (Springer volume of extended papers)
+
+
+## Proceedings
+
+Prospective authors are encouraged to submit their papers (6-8 pages) in Russian or English 
+via the online registration system at the Conference website (https://dccn.ru/). 
+
+The accepted papers will be published in the Conference Proceedings volume (included into the Russian Science Citation Index) prior to the beginning of the Conference. 
+
+After a peer review and plagiarism check using IEEE CrossCheck, selected submissions in English, recommended by the Program Committee, will also appear as a stand-alone volume of selected extended papers published by Springer (indexed in Scopus and Web of Science).
+
+## Topics
+
+Topics include, but are not limited to the following fields:
+
+- Computer and communications networking architecture optimization;
+- Control in computer and telecommunication systems;
+- Performance analysis and QoS/QoE evaluation in wireless networks;
+- Analytical modeling and simulation of next-generation communications systems;
+- Wireless 4G/5G networks, centimeter- and millimeter-wave radio technologies;
+- RFID-technologies and their application in intelligent transportation networks;
+- Internet of Things, wearables, and applications of distributed information systems;
+- Distributed and cloud computing systems, big data analytics;
+- Probabilistic and statistical models in information systems;
+- Queuing theory and reliability theory applications;
+- High-altitude unmanned telecommunications platforms
+
+--
+DCCN'2019 Organizing Committee,
+org@dccn.ru
+
